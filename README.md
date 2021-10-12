@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with [other learners](https://github.com/ZoCodes/SheCodesBootcamp)
 
-- 📝 I regularly write articles on [https://zocodes.hashnode.dev/](https://zocodes.hashnode.dev/)
+- 📝 I occasionally write articles on [https://zocodes.hashnode.dev/](https://zocodes.hashnode.dev/)
 
 - 📫 How to reach me **@ZoCodes**
 
