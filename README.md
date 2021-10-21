@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zocodes" target="blank"><img src="https://img.shields.io/twitter/follow/zocodes?logo=twitter&style=for-the-badge" alt="zocodes" /></a> </p>
 
-- 🔭 I’m currently working on a [Dictionary App (https://github.com/ZoCodes/dictionaryapp-react) and a gardening website for a friend
+- 🔭 I’m currently working on a [Dictionary App](https://github.com/ZoCodes/dictionaryapp-react) and a gardening website for a friend
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and React**
 
