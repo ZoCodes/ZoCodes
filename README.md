@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zocodes" target="blank"><img src="https://img.shields.io/twitter/follow/zocodes?logo=twitter&style=for-the-badge" alt="zocodes" /></a> </p>
 
-- 👩🏻‍💻 SheCodes Alunmna 
+- 👩🏻‍💻  SheCodes Alunmna 
 
 - 🔭 I’m currently working on building a gardening website for a friend
 
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I am a black belt in Karate**
 
-- - ⚡ Fun fact **I opened the UKs first Cereal Cafe** 🥣
+- ⚡ Fun fact **I opened the UKs first Cereal Cafe** 🥣
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
