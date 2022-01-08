@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zoë</h1>
-<h3 align="center">A newbie frontend developer from the UK, looking to break into the world of Tech 🌎</h3>
+<h3 align="center">A self-taught frontend developer from the UK, looking to break into the world of Tech 🌎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zocodes&label=Profile%20views&color=0e75b6&style=flat" alt="zocodes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zocodes" target="blank"><img src="https://img.shields.io/twitter/follow/zocodes?logo=twitter&style=for-the-badge" alt="zocodes" /></a> </p>
 
-- 🔭 I’m currently working on a [Dictionary App](https://github.com/ZoCodes/dictionaryapp-react) and a gardening website for a friend
+- 👩🏻‍💻 SheCodes Alunmna 
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and React**
+- 🔭 I’m currently working on building a gardening website for a friend
+
+- 🌱 Learning **HTML, CSS, JavaScript and React**
 
 - 👯 I’m looking to collaborate with [other learners](https://github.com/ZoCodes/SheCodesBootcamp)
 
@@ -18,6 +20,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/zoeelizabethblogg/](https://www.linkedin.com/in/zoeelizabethblogg/)
 
 - ⚡ Fun fact **I am a black belt in Karate**
+
+- - ⚡ Fun fact **I opened the UKs first Cereal Cafe** 🥣
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
