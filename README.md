@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zoë</h1>
-<h3 align="center">A self-taught frontend developer from the UK, looking to break into the world of Tech 🌎</h3>
+<h1 align="center">Hi 👋, I'm Zoë B</h1>
+<h3 align="center">A self-taught frontend developer from the UK; breaking into the world of Tech 🌎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zocodes&label=Profile%20views&color=0e75b6&style=flat" alt="zocodes" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👩🏻‍💻  SheCodes Alunmna 
 
-- 🔭 I’m currently working on building a gardening website for a friend
+- 🔭 I’m currently building a gardening website for a friend
 
 - 🌱 Learning **HTML, CSS, JavaScript and React**
 
